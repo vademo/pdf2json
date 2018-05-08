@@ -4,6 +4,11 @@ pdf2json is a [node.js](http://nodejs.org/) module that parses and converts PDF 
 
 The goal is to enable server side PDF parsing with interactive form elements when wrapped in web service, and also enable parsing local PDF to json file when using as a command line utility.
 
+## Reason for Fork
+
+Add support for stamp
+- return stamp field and its location in pdfParser
+
 ## Install
 
 >npm install pdf2json
