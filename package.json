@@ -1,7 +1,7 @@
 {
-  "name": "pdf2json",
+  "name": "pdf2json-signature",
   "version": "1.1.8",
-  "description": "A PDF file parser that converts PDF binaries to text based JSON, powered by porting a fork of PDF.JS to Node.js",
+  "description": "Forked from pdf2json -> A PDF file parser that converts PDF binaries to text based JSON, powered by porting a fork of PDF.JS to Node.js",
   "keywords": [
     "pdf",
     "pdf parser",
@@ -16,9 +16,9 @@
     "pdf.js fork"
   ],
   "author": {
-    "name": "Modesty Zhang",
-    "email": "modestyz@hotmail.com",
-    "url": "http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=62372"
+    "name": "Olivier Van den Mooter",
+    "email": "olivier@vademo.be",
+    "url": "https://vademo.be"
   },
   "homepage": "https://github.com/modesty/pdf2json",
   "repository": {
